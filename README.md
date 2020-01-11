@@ -1,2 +1,2 @@
 # Stepik_first
-Exercises
+Упражнения на Python 
